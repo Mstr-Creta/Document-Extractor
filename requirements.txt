@@ -1,0 +1,11 @@
+streamlit
+easyocr
+pandas
+numpy
+Pillow
+opencv-python-headlessstreamlit
+easyocr
+pandas
+numpy
+Pillow
+opencv-python-headless
